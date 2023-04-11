@@ -1,0 +1,1 @@
+// To be clear, this method of login using the req.params is a terrible terrible idea. I'm just doing this because I just want a working prototype as of now, I will integrate a proper log in method using sessions and cookies!

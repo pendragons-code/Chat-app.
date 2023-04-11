@@ -1,6 +1,6 @@
 const { db } = require("../../loaders/database.js")
 module.exports = {
-	name: "/",
+	name: "/chat",
 	async execute(req, res) {
 		const previousMessages = await db.get("messages")
 		let history = ""
