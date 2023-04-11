@@ -15,3 +15,6 @@ Might consider using a database like quick.db (I know key-value databases and th
 # WHAT? REPLIT?
 Yes, I will be going to a new institue of education and my usual stuff will not be available to me. :( RIP TP-300LD             
 So yeah, I will be forced to use windows. :( T-T
+
+# Redoing
+I was making good progress at first, until I ran into a dumb issue, replit seems to always freeze up when I add crypto. I will be working on everything else first, before adding encryption.
